@@ -1,0 +1,8 @@
+@media (max-width: 690px) {
+  .footer__menu {
+    max-width: calc(100% - 32px);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
