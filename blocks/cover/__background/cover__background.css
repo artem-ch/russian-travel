@@ -1,10 +1,13 @@
 .cover__background {
   width: 100%;
-  padding: 0 0 62%;
+  min-height: calc(100vw / 1.6);
   background-image: url(../../../images/cover__background.jpg);
   background-size: cover;
   background-position: center;
   display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   position: relative;
   text-decoration: none;
 }

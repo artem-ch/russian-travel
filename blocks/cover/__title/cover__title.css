@@ -1,5 +1,4 @@
 .cover__title {
-  width: 100%;
   max-width: 560px;
   text-align: center;
   color: #fff;
@@ -7,6 +6,7 @@
   line-height: 1.06;
   font-weight: 900;
   margin: 0 auto 32px;
+  position: relative;
 }
 
 @media (max-width: 690px) {
