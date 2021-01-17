@@ -4,7 +4,6 @@
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  box-sizing: border-box;
 }
 
 @media (max-width: 768px) {
