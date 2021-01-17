@@ -14,4 +14,4 @@
 Контрольные точки: 320px, 768px, 1024px, 1280px
 
 ## Ссылка проект на GitHub Pages:
-https://art-wd.github.io/russian-travel/index.html
+https://art-wd.github.io/russian-travel/
