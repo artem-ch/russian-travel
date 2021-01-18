@@ -1,4 +1,5 @@
 .place__website {
+  margin: 0;
   align-self: end;
 }
 
@@ -7,4 +8,3 @@
     margin: 0 16px;
   }
 }
-
