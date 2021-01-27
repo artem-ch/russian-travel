@@ -1,16 +1,16 @@
-.intro {
-  max-width: 984px;
-  margin: 0 max(48px, calc((100% - 984px) / 2));
+.page__footer {
+  margin: 0 max(48px, calc((100% - 1184px) / 2));
+  padding: 0 0 24px;
 }
 
 @media (max-width: 984px) {
-  .intro {
+  .page__footer {
     margin: 0 min(48px, max(24px, calc((100% - 768px) / 2)));
   }
 }
 
 @media (max-width: 425px) {
-  .intro {
+  .page__footer {
     margin: 0 min(24px, max(16px, calc((100% - 320px) / 2)));
   }
 }

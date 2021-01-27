@@ -1,16 +1,5 @@
 .cover {
-  max-width: 1184px;
-  margin: 0 auto 92px;
-}
-
-@media (min-width: 426px) and (max-width: 768px) {
-  .cover {
-    margin: 0 auto 88px;
-  }
-}
-
-@media (max-width: 425px) {
-  .cover {
-    margin: 0 auto 64px;
-  }
+  width: 100%;
+  max-width: max(1024px, calc(100% - 48px * 2));
+  margin: 0 auto;
 }

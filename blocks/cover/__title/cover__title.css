@@ -9,16 +9,9 @@
   position: relative;
 }
 
-@media (min-width: 426px) and (max-width: 768px) {
+@media (max-width: 690px) {
   .cover__title {
-    max-width: 70%;
-    font-size: 9vw;
-  }
-}
-
-@media (max-width: 425px) {
-  .cover__title {
-    max-width: 250px;
+    max-width: 251px;
     font-size: 32px;
     line-height: 1.09;
     margin: 0 auto 16px;
